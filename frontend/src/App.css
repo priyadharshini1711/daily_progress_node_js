@@ -1,0 +1,26 @@
+.title {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 15%;
+  max-height: 15%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2em;
+  background-color:black;
+  color:white;
+  padding:20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-large;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-large;
+  padding: 10px;
+  margin: 0px;
+  flex-direction: column;
+}
